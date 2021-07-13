@@ -17,5 +17,3 @@ module NteRau
     # the framework and any gems in your application.
   end
 end
-
-Rails.application.config.hosts << "vps.belanec.eu"
